@@ -1,7 +1,7 @@
 #include  "ESP8266WiFi.h"
  
-const char* ssid ="KJN"; //PW WiFi
-const char* password = "bakabaka"; 
+const char* ssid =""; //PW WiFi
+const char* password = ""; 
  
 int motor1 = 2; // D4
 int motor2 = 12; // D6
